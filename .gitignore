@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.db
+*.log
+*.mo
+._*
+*.*~
+.DS_Store
+build/
+dist/
+MANIFEST
+rossion.egg-info/
